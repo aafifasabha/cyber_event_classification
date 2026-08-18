@@ -1,0 +1,16 @@
+,0
+num__data_compromised_GB,0.10186644293628637
+num__attack_duration_min,0.09414327831952177
+num__response_time_min,0.09085616043253632
+num__hour,0.06909870575734427
+num__month,0.058504849014898795
+num__attack_severity,0.05618141310291944
+num__day_of_week,0.048679849307741205
+cat__outcome_Success,0.014526805964986228
+cat__outcome_Failure,0.014353526419515013
+cat__user_role_Employee,0.014253336677927105
+num__is_business_hours,0.013790564245490487
+cat__user_role_Contractor,0.013531794023273107
+cat__user_role_Admin,0.013471436941033655
+cat__user_role_External User,0.013353219405056427
+cat__mitigation_method_Block IP,0.012654866969165608

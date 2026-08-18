@@ -1,0 +1,11 @@
+true_attack_type,predicted_attack_type,count
+SQL Injection,Brute Force,419
+Malware,Brute Force,411
+Zero-Day Exploit,Brute Force,396
+DDoS,Brute Force,388
+SQL Injection,Zero-Day Exploit,386
+Brute Force,Zero-Day Exploit,385
+Ransomware,Zero-Day Exploit,384
+Cross-Site Scripting,Zero-Day Exploit,382
+Phishing,Zero-Day Exploit,378
+Phishing,Brute Force,378

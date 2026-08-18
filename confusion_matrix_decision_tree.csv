@@ -1,0 +1,9 @@
+,Brute Force,Cross-Site Scripting,DDoS,Malware,Phishing,Ransomware,SQL Injection,Zero-Day Exploit
+Brute Force,191,868,388,262,237,206,156,213
+Cross-Site Scripting,195,861,425,223,265,202,137,174
+DDoS,167,864,388,237,256,207,172,220
+Malware,187,882,382,259,222,173,175,214
+Phishing,169,874,401,258,243,198,144,201
+Ransomware,159,860,416,271,229,181,167,217
+SQL Injection,183,836,421,270,264,185,159,175
+Zero-Day Exploit,193,898,380,250,228,176,175,211

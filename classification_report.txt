@@ -1,0 +1,16 @@
+Classification Report - Best Model: Random Forest
+============================================================
+                      precision    recall  f1-score   support
+
+         Brute Force       0.12      0.15      0.14      2521
+Cross-Site Scripting       0.13      0.11      0.12      2482
+                DDoS       0.13      0.14      0.13      2511
+             Malware       0.13      0.12      0.13      2494
+            Phishing       0.14      0.12      0.13      2488
+          Ransomware       0.13      0.12      0.13      2500
+       SQL Injection       0.12      0.12      0.12      2493
+    Zero-Day Exploit       0.13      0.15      0.14      2511
+
+            accuracy                           0.13     20000
+           macro avg       0.13      0.13      0.13     20000
+        weighted avg       0.13      0.13      0.13     20000
